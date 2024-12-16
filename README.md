@@ -1,7 +1,18 @@
-# SinuxOS-Website
-O SinuxOS é Um Sistema Operacional Pequeno e Rápido e Leve Para Para PCs Antigos de 40 Anos Atrás e PCs Antigos de 30 Anos Atrás e Tem Quatro Arquiteturas 8-Bits e 16-Bits e 32-Bits e 64-Bits e Que Foi Feito do Zero no Assembly
-img é de 4-Bits SinuxOS-PT_BR-4004.img
-img é de 8-Bits SinuxOS-PT_BR-6502-8039-8051-8080.img
-img é de 16-Bits SinuxOS-PT_BR-8086-8088-80286-x86.img
-img é de 32-Bits SinuxOS-PT_BR-80386_80486-x86_32.img
-img é de 64-Bits SinuxOS-PT_BR-x86_64.img
+# [Global: HTML5 website template](http://buckymaler.com/global)
+
+### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+
+Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+
+The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+
+This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+
+[LIVE PREVIEW](http://buckymaler.com/global)
+
+## Misc:
+
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
